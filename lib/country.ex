@@ -33,6 +33,8 @@ defmodule Countries.Country do
     :vat_rates,
     :postal_code,
     :currency_code,
+    :start_of_week,
+    :eea_member,
     :start_of_week
   ]
 end
